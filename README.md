@@ -18,10 +18,13 @@ Initial BOM:
 - 1ea 1K Ohm
 - 1ea 10uF 50V Electrolytic
 - 1ea 100nF
-- 1ea SN7408N, but about any two TTL __AND__ or other Gates, including Buffers would work
-Note - If you use different gates remember to adapt circuit when using negated logic.
+- 1ea SN7408N, about any two TTL __AND__ or other Gates, including Buffers would work
+Note - If you use different gates remember to adapt the circuit when using negated logic.
 - 1ea BNC connector
 - 1ea PI PICO or equivilant MicroPython(For included software to work) MCU
+
+I also added a couple signal Diodes for simple circuit protection and noise filter. These are optional.
+- 2ea 1N4148
 
 ## Case STLs
 3D Printable Files

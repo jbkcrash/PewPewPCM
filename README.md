@@ -24,11 +24,14 @@ Note - If you use different gates remember to adapt circuit when using negated l
 - 1ea PI PICO or equivilant MicroPython(For included software to work) MCU
 
 ## Case STLs
+3D Printable Files
+Top:
 [Case Top](STL/PewPewPWM_Top.stl)
+Case:
 [Case](STL/PewPewPWM_Case.stl)
 
-[![Image of case](STL/Prototype1.jpg)]
-[![Image of Protoboad w/Circuit](STL/Prototype2.jpg)]
+![Image of case](STL/Prototype1.jpg)
+![Image of Protoboad w/Circuit](STL/Prototype2.jpg)
 
 ## Short video of my laser in operation
 [![Short Video of Focused Laser](https://img.youtube.com/vi/cXQKUah9bkY/0.jpg)](https://www.youtube.com/shorts/cXQKUah9bkY)

@@ -1,4 +1,4 @@
-# PewPewPCM
+# PewPewPWM
 PWM Laser Controller
 
 [Circuit Used](Circuit/circuit.png)
